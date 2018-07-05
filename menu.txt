@@ -1,5 +1,6 @@
-apple 
+apple
 
+add masala 
 dosa
 <<<<<<< HEAD
 
